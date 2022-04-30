@@ -16,5 +16,5 @@ bash:
 powershell:
 ```bash
   Invoke-WebRequest github.com/Aquilabot/ventoy-menu/releases/latest/download/ventoy.zip -OutFile ventoy.zip
-  Expand-Archive -Path ventoy.zip
+  Expand-Archive -Path ventoy.zip -DestinationPath .
 ```
