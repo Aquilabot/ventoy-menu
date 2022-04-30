@@ -351,3 +351,7 @@ MigrationBackup/
 
 #ISO files
 *.iso
+
+#vscode
+.vscode/**
+.history/**

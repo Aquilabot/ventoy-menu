@@ -113,7 +113,7 @@
         },
         {
             "key": "macOS",
-            "clas": "macosx"
+            "class": "macosx"
         },
         {
             "key": "kubuntu-",
@@ -122,6 +122,54 @@
         {
             "key": "steamOS",
             "class": "steamos"
+        },
+        {
+            "key": "devuan",
+            "class": "devuan"
+        },
+        {
+            "key": "aquilabot",
+            "class": "unknown"
+        },
+        {
+            "key": "antergos",
+            "class": "antergos"
+        },
+        {
+            "key": "arch-",
+            "class" : "arch"
+        },
+        {
+            "key": "arcolinux-",
+            "class": "arcolinux"
+        },
+        {
+            "key": "chakra-",
+            "class": "chakra"
+        },
+        {
+            "key": "debian",
+            "class" : "debian"
+        },
+        {
+            "key": "kaos-",
+            "class": "kaos"
+        },
+        {
+            "key": "korora-",
+            "class": "korora"
+        },
+        {
+            "key": "mageia-",
+            "class": "mageia"
+        },
+        {
+            "key": "siduction-",
+            "class": "siduction"
+        },
+        {
+            "key": "void-",
+            "class": "void"
         }
     ],
     "auto_install":[
