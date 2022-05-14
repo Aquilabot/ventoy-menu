@@ -129,7 +129,7 @@ Notes: This is a generated file for Windows autoinstaller with spanish language.
             </ImageInstall>
             <UserData>
                 <AcceptEula>true</AcceptEula>
-                <FullName>Admin</FullName>
+                <FullName>Administrator</FullName>
                 <Organization>GG</Organization>
                 <ProductKey>
                     <Key>W269N-WFGWX-YVC9B-4J6C9-T83GX</Key>
